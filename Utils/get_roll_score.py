@@ -1,4 +1,4 @@
-from is_figure import *
+from .is_figure import *
 from collections import Counter
 
 
